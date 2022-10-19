@@ -1,0 +1,19 @@
+{
+  "name": "voltairebot",
+  "version": "1.0.0",
+  "description": "Un bot qui résouds les problèmes d'orthographe du Projet Voltaire automatiquement.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natoune/VoltaireBot.git"
+  },
+  "author": "Natoune",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Natoune/VoltaireBot/issues"
+  },
+  "homepage": "https://github.com/Natoune/VoltaireBot#readme"
+}
